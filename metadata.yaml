@@ -1,11 +1,16 @@
 _repo: De-Dochter-van-de-Zeekapitein-Een-Histories-Verhaal_57093
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: D'Arbez
     gutenberg_agent_id: '49190'
     url: http://www.gutenberg.org/2009/agents/49190
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57093#De-Dochter-van-de-Zeekapitein-Een-Histories-Verhaal
 gutenberg_issued: '2018-05-05'
 gutenberg_type: Text
 identifiers:
